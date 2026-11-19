@@ -1,0 +1,16 @@
+{
+  "builder": "my-bnm-rmit-oscal-builder",
+  "builder_version": "0.1.0",
+  "builder_commit": "a102af97a2d42a62c9a89071c394aadde4c9d658",
+  "built_at": "2026-11-19T02:20:56+00:00",
+  "source": {
+    "title": "Risk Management in Technology (RMiT)",
+    "publisher": "Bank Negara Malaysia",
+    "published": "2026-09",
+    "url": "https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf",
+    "sha256": "d7b8e6753a78514e90fbfe0cef6bd40ff8bccbfc60e17c7575db4cec1fba6cd6",
+    "copyright": "\u00a9 Bank Negara Malaysia"
+  },
+  "conversion_license": "Apache-2.0",
+  "conversion_author": "Baden Hughes <baden.hughes@gmail.com>"
+}

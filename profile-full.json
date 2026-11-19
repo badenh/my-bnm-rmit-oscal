@@ -1,0 +1,90 @@
+{
+  "profile": {
+    "uuid": "bbb2d788-ada9-507c-b739-bac5584b4814",
+    "metadata": {
+      "title": "Risk Management in Technology (RMiT) — Full Profile",
+      "last-modified": "2026-11-19T02:20:56Z",
+      "version": "2026-09",
+      "oscal-version": "1.1.2",
+      "props": [
+        {
+          "name": "short-name",
+          "value": "BNM RMIT",
+          "ns": "https://baden.id/ns/rmit"
+        },
+        {
+          "name": "publisher",
+          "value": "Bank Negara Malaysia",
+          "ns": "https://baden.id/ns/rmit"
+        },
+        {
+          "name": "copyright",
+          "ns": "https://baden.id/ns/rmit",
+          "value": "© Bank Negara Malaysia. OSCAL conversion © Baden Hughes, licensed Apache-2.0."
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf",
+          "rel": "canonical",
+          "media-type": "application/pdf"
+        }
+      ],
+      "roles": [
+        {
+          "id": "publisher",
+          "title": "Publisher"
+        },
+        {
+          "id": "converter",
+          "title": "OSCAL Converter"
+        }
+      ],
+      "parties": [
+        {
+          "uuid": "00ad1f55-fa9c-5c25-a56a-d297242a8dde",
+          "type": "organization",
+          "name": "Bank Negara Malaysia",
+          "short-name": "BNM",
+          "links": [
+            {
+              "href": "https://www.bnm.gov.my/",
+              "rel": "homepage"
+            }
+          ]
+        },
+        {
+          "uuid": "87826110-3f56-5a2b-a2a6-6fcc05a5426d",
+          "type": "person",
+          "name": "Baden Hughes",
+          "email-addresses": [
+            "baden.hughes@gmail.com"
+          ]
+        }
+      ],
+      "responsible-parties": [
+        {
+          "role-id": "publisher",
+          "party-uuids": [
+            "00ad1f55-fa9c-5c25-a56a-d297242a8dde"
+          ]
+        },
+        {
+          "role-id": "converter",
+          "party-uuids": [
+            "87826110-3f56-5a2b-a2a6-6fcc05a5426d"
+          ]
+        }
+      ]
+    },
+    "imports": [
+      {
+        "href": "catalog.json",
+        "include-all": {}
+      }
+    ],
+    "merge": {
+      "as-is": true
+    }
+  }
+}
