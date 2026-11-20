@@ -15,7 +15,9 @@ Risk Management in Technology (RMiT)** policy document
 |---|---|
 | `catalog.json` | OSCAL 1.1.2 catalog (canonical) |
 | `catalog.yaml` | Same catalog, YAML serialisation |
+| `catalog.xml` | Same catalog, OSCAL XML serialisation (via `oscal-cli convert`) |
 | `profile-full.json` | OSCAL 1.1.2 profile importing every control (`include-all`) |
+| `profile-full.xml` | Same profile, OSCAL XML serialisation |
 | `resolved-profile-full.json` | Flattened catalog from `oscal-cli profile resolve` |
 | `provenance.json` | Builder commit SHA, source URL, PDF SHA256, build time |
 | `CHANGELOG.md` | Per-release change log |
