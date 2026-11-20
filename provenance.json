@@ -1,8 +1,8 @@
 {
   "builder": "my-bnm-rmit-oscal-builder",
   "builder_version": "0.1.0",
-  "builder_commit": "a102af97a2d42a62c9a89071c394aadde4c9d658",
-  "built_at": "2026-11-19T02:20:56+00:00",
+  "builder_commit": "1d019714e9feb8f030229e9491aa0c5fa5577ac6",
+  "built_at": "2026-11-20T03:53:13+00:00",
   "source": {
     "title": "Risk Management in Technology (RMiT)",
     "publisher": "Bank Negara Malaysia",
