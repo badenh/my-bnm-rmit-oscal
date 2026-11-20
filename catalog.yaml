@@ -2,18 +2,18 @@ catalog:
   uuid: f528d6cd-c2ac-5489-a5d2-f7f387cfa26c
   metadata:
     title: Risk Management in Technology (RMiT)
-    last-modified: '2026-11-20T03:55:27Z'
+    last-modified: '2026-11-20T03:59:54Z'
     version: 2026-09
     oscal-version: 1.1.2
     props:
     - name: short-name
       value: BNM RMIT
-      ns: https://baden.id/ns/rmit
+      ns: https://bnm.gov.my/ns/rmit
     - name: publisher
       value: Bank Negara Malaysia
-      ns: https://baden.id/ns/rmit
+      ns: https://bnm.gov.my/ns/rmit
     - name: copyright
-      ns: https://baden.id/ns/rmit
+      ns: https://bnm.gov.my/ns/rmit
       value: © Bank Negara Malaysia. OSCAL conversion © Baden Hughes, licensed Apache-2.0.
     links:
     - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf
@@ -67,7 +67,7 @@ catalog:
           value: '1.1'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-1.1_smt
           name: statement
@@ -88,7 +88,7 @@ catalog:
           value: '1.2'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-1.2_smt
           name: statement
@@ -109,7 +109,7 @@ catalog:
           value: '1.3'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-1.3_smt
           name: statement
@@ -124,7 +124,7 @@ catalog:
           value: '1.4'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-1.4_smt
           name: statement
@@ -153,7 +153,7 @@ catalog:
           value: '2.1'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-2.1_smt
           name: statement
@@ -167,7 +167,7 @@ catalog:
           value: '2.2'
         - name: source-page
           value: '3'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-2.2_smt
           name: statement
@@ -197,7 +197,7 @@ catalog:
           value: '3.1'
         - name: source-page
           value: '4'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-3.1_smt
           name: statement
@@ -215,7 +215,7 @@ catalog:
           value: '3.2'
         - name: source-page
           value: '4'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-3.2_smt
           name: statement
@@ -237,7 +237,7 @@ catalog:
           value: '4.1'
         - name: source-page
           value: '4'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-4.1_smt
           name: statement
@@ -258,7 +258,7 @@ catalog:
           value: '5.1'
         - name: source-page
           value: '4'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-5.1_smt
           name: statement
@@ -273,7 +273,7 @@ catalog:
           value: '5.2'
         - name: source-page
           value: '4'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-5.2_smt
           name: statement
@@ -354,7 +354,7 @@ catalog:
           value: '6.1'
         - name: source-page
           value: '6'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-6.1_smt
           name: statement
@@ -399,7 +399,7 @@ catalog:
           value: '7.1'
         - name: source-page
           value: '7'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-7.1_smt
           name: statement
@@ -433,10 +433,10 @@ catalog:
           value: '8.1'
         - name: source-page
           value: '8'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.1_smt
           name: statement
@@ -460,10 +460,10 @@ catalog:
           value: '8.2'
         - name: source-page
           value: '8'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.2_smt
           name: statement
@@ -493,10 +493,10 @@ catalog:
           value: '8.3'
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.3_smt
           name: statement
@@ -512,10 +512,10 @@ catalog:
           value: '8.4'
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.4_smt
           name: statement
@@ -535,10 +535,10 @@ catalog:
           value: '8.5'
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.5_smt
           name: statement
@@ -557,10 +557,10 @@ catalog:
           value: '8.6'
         - name: source-page
           value: '9'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.6_smt
           name: statement
@@ -584,10 +584,10 @@ catalog:
           value: '8.7'
         - name: source-page
           value: '10'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-8.7_smt
           name: statement
@@ -617,10 +617,10 @@ catalog:
           value: '9.1'
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-9.1_smt
           name: statement
@@ -635,10 +635,10 @@ catalog:
           value: '9.2'
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-9.2_smt
           name: statement
@@ -669,10 +669,10 @@ catalog:
           value: '9.3'
         - name: source-page
           value: '11'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-9.3_smt
           name: statement
@@ -692,10 +692,10 @@ catalog:
           value: '9.4'
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-9.4_smt
           name: statement
@@ -719,10 +719,10 @@ catalog:
           value: '9.5'
         - name: source-page
           value: '12'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-9.5_smt
           name: statement
@@ -749,10 +749,10 @@ catalog:
           value: '10.1'
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.1_smt
           name: statement
@@ -769,10 +769,10 @@ catalog:
           value: '10.2'
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.2_smt
           name: statement
@@ -807,10 +807,10 @@ catalog:
           value: '10.3'
         - name: source-page
           value: '13'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.3_smt
           name: statement
@@ -825,10 +825,10 @@ catalog:
           value: '10.4'
         - name: source-page
           value: '14'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.4_smt
           name: statement
@@ -857,10 +857,10 @@ catalog:
           value: '10.5'
         - name: source-page
           value: '14'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.5_smt
           name: statement
@@ -880,10 +880,10 @@ catalog:
           value: '10.6'
         - name: source-page
           value: '14'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.6_smt
           name: statement
@@ -901,10 +901,10 @@ catalog:
           value: '10.7'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.7_smt
           name: statement
@@ -922,10 +922,10 @@ catalog:
           value: '10.8'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.8_smt
           name: statement
@@ -943,10 +943,10 @@ catalog:
           value: '10.9'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.9_smt
           name: statement
@@ -962,10 +962,10 @@ catalog:
           value: '10.10'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.10_smt
           name: statement
@@ -981,10 +981,10 @@ catalog:
           value: '10.11'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.11_smt
           name: statement
@@ -1000,10 +1000,10 @@ catalog:
           value: '10.12'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.12_smt
           name: statement
@@ -1024,10 +1024,10 @@ catalog:
           value: '10.13'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.13_smt
           name: statement
@@ -1043,10 +1043,10 @@ catalog:
           value: '10.14'
         - name: source-page
           value: '15'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.14_smt
           name: statement
@@ -1062,10 +1062,10 @@ catalog:
           value: '10.15'
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.15_smt
           name: statement
@@ -1089,10 +1089,10 @@ catalog:
           value: '10.16'
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.16_smt
           name: statement
@@ -1106,10 +1106,10 @@ catalog:
           value: '10.17'
         - name: source-page
           value: '16'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.17_smt
           name: statement
@@ -1134,10 +1134,10 @@ catalog:
           value: '10.18'
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.18_smt
           name: statement
@@ -1159,10 +1159,10 @@ catalog:
           value: '10.19'
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.19_smt
           name: statement
@@ -1184,10 +1184,10 @@ catalog:
           value: '10.20'
         - name: source-page
           value: '17'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.20_smt
           name: statement
@@ -1218,10 +1218,10 @@ catalog:
           value: '10.21'
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.21_smt
           name: statement
@@ -1251,10 +1251,10 @@ catalog:
           value: '10.22'
         - name: source-page
           value: '18'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.22_smt
           name: statement
@@ -1276,10 +1276,10 @@ catalog:
           value: '10.23'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.23_smt
           name: statement
@@ -1301,10 +1301,10 @@ catalog:
           value: '10.24'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.24_smt
           name: statement
@@ -1319,10 +1319,10 @@ catalog:
           value: '10.25'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.25_smt
           name: statement
@@ -1338,10 +1338,10 @@ catalog:
           value: '10.26'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.26_smt
           name: statement
@@ -1363,10 +1363,10 @@ catalog:
           value: '10.27'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.27_smt
           name: statement
@@ -1384,10 +1384,10 @@ catalog:
           value: '10.28'
         - name: source-page
           value: '19'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.28_smt
           name: statement
@@ -1404,10 +1404,10 @@ catalog:
           value: '10.29'
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.29_smt
           name: statement
@@ -1422,10 +1422,10 @@ catalog:
           value: '10.30'
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.30_smt
           name: statement
@@ -1443,10 +1443,10 @@ catalog:
           value: '10.31'
         - name: source-page
           value: '20'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.31_smt
           name: statement
@@ -1478,10 +1478,10 @@ catalog:
           value: '10.32'
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.32_smt
           name: statement
@@ -1499,10 +1499,10 @@ catalog:
           value: '10.33'
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.33_smt
           name: statement
@@ -1518,10 +1518,10 @@ catalog:
           value: '10.34'
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.34_smt
           name: statement
@@ -1536,10 +1536,10 @@ catalog:
           value: '10.35'
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.35_smt
           name: statement
@@ -1571,10 +1571,10 @@ catalog:
           value: '10.36'
         - name: source-page
           value: '21'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.36_smt
           name: statement
@@ -1589,10 +1589,10 @@ catalog:
           value: '10.37'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.37_smt
           name: statement
@@ -1608,10 +1608,10 @@ catalog:
           value: '10.38'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.38_smt
           name: statement
@@ -1626,10 +1626,10 @@ catalog:
           value: '10.39'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.39_smt
           name: statement
@@ -1646,10 +1646,10 @@ catalog:
           value: '10.40'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.40_smt
           name: statement
@@ -1664,10 +1664,10 @@ catalog:
           value: '10.41'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.41_smt
           name: statement
@@ -1683,10 +1683,10 @@ catalog:
           value: '10.42'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.42_smt
           name: statement
@@ -1701,10 +1701,10 @@ catalog:
           value: '10.43'
         - name: source-page
           value: '22'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.43_smt
           name: statement
@@ -1721,10 +1721,10 @@ catalog:
           value: '10.44'
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.44_smt
           name: statement
@@ -1752,10 +1752,10 @@ catalog:
           value: '10.45'
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.45_smt
           name: statement
@@ -1772,10 +1772,10 @@ catalog:
           value: '10.46'
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.46_smt
           name: statement
@@ -1794,10 +1794,10 @@ catalog:
           value: '10.47'
         - name: source-page
           value: '23'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.47_smt
           name: statement
@@ -1815,10 +1815,10 @@ catalog:
           value: '10.48'
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.48_smt
           name: statement
@@ -1858,10 +1858,10 @@ catalog:
           value: '10.49'
         - name: source-page
           value: '24'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.49_smt
           name: statement
@@ -1890,10 +1890,10 @@ catalog:
           value: '10.50'
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.50_smt
           name: statement
@@ -1924,10 +1924,10 @@ catalog:
           value: '10.51'
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.51_smt
           name: statement
@@ -1946,10 +1946,10 @@ catalog:
           value: '10.52'
         - name: source-page
           value: '25'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.52_smt
           name: statement
@@ -1968,10 +1968,10 @@ catalog:
           value: '10.53'
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.53_smt
           name: statement
@@ -1988,10 +1988,10 @@ catalog:
           value: '10.54'
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.54_smt
           name: statement
@@ -2023,10 +2023,10 @@ catalog:
           value: '10.55'
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.55_smt
           name: statement
@@ -2043,10 +2043,10 @@ catalog:
           value: '10.56'
         - name: source-page
           value: '26'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.56_smt
           name: statement
@@ -2061,10 +2061,10 @@ catalog:
           value: '10.57'
         - name: source-page
           value: '27'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-10.57_smt
           name: statement
@@ -2089,10 +2089,10 @@ catalog:
           value: '11.1'
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.1_smt
           name: statement
@@ -2107,10 +2107,10 @@ catalog:
           value: '11.2'
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.2_smt
           name: statement
@@ -2130,10 +2130,10 @@ catalog:
           value: '11.3'
         - name: source-page
           value: '28'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.3_smt
           name: statement
@@ -2173,10 +2173,10 @@ catalog:
           value: '11.4'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.4_smt
           name: statement
@@ -2193,10 +2193,10 @@ catalog:
           value: '11.5'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.5_smt
           name: statement
@@ -2210,10 +2210,10 @@ catalog:
           value: '11.6'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.6_smt
           name: statement
@@ -2228,10 +2228,10 @@ catalog:
           value: '11.7'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.7_smt
           name: statement
@@ -2248,10 +2248,10 @@ catalog:
           value: '11.8'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.8_smt
           name: statement
@@ -2269,10 +2269,10 @@ catalog:
           value: '11.9'
         - name: source-page
           value: '29'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.9_smt
           name: statement
@@ -2295,10 +2295,10 @@ catalog:
           value: '11.10'
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.10_smt
           name: statement
@@ -2315,10 +2315,10 @@ catalog:
           value: '11.11'
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.11_smt
           name: statement
@@ -2333,10 +2333,10 @@ catalog:
           value: '11.12'
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.12_smt
           name: statement
@@ -2354,10 +2354,10 @@ catalog:
           value: '11.13'
         - name: source-page
           value: '30'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.13_smt
           name: statement
@@ -2384,10 +2384,10 @@ catalog:
           value: '11.14'
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.14_smt
           name: statement
@@ -2402,10 +2402,10 @@ catalog:
           value: '11.15'
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.15_smt
           name: statement
@@ -2421,10 +2421,10 @@ catalog:
           value: '11.16'
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.16_smt
           name: statement
@@ -2449,10 +2449,10 @@ catalog:
           value: '11.17'
         - name: source-page
           value: '31'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.17_smt
           name: statement
@@ -2483,10 +2483,10 @@ catalog:
           value: '11.18'
         - name: source-page
           value: '32'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.18_smt
           name: statement
@@ -2503,10 +2503,10 @@ catalog:
           value: '11.19'
         - name: source-page
           value: '32'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.19_smt
           name: statement
@@ -2524,10 +2524,10 @@ catalog:
           value: '11.20'
         - name: source-page
           value: '32'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-11.20_smt
           name: statement
@@ -2548,10 +2548,10 @@ catalog:
           value: '12.1'
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.1_smt
           name: statement
@@ -2573,10 +2573,10 @@ catalog:
           value: '12.2'
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.2_smt
           name: statement
@@ -2595,10 +2595,10 @@ catalog:
           value: '12.3'
         - name: source-page
           value: '33'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.3_smt
           name: statement
@@ -2633,10 +2633,10 @@ catalog:
           value: '12.4'
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.4_smt
           name: statement
@@ -2655,10 +2655,10 @@ catalog:
           value: '12.5'
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.5_smt
           name: statement
@@ -2678,10 +2678,10 @@ catalog:
           value: '12.6'
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.6_smt
           name: statement
@@ -2699,10 +2699,10 @@ catalog:
           value: '12.7'
         - name: source-page
           value: '34'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.7_smt
           name: statement
@@ -2726,10 +2726,10 @@ catalog:
           value: '12.8'
         - name: source-page
           value: '35'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.8_smt
           name: statement
@@ -2749,10 +2749,10 @@ catalog:
           value: '12.9'
         - name: source-page
           value: '35'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-12.9_smt
           name: statement
@@ -2780,10 +2780,10 @@ catalog:
           value: '13.1'
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-13.1_smt
           name: statement
@@ -2798,10 +2798,10 @@ catalog:
           value: '13.2'
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-13.2_smt
           name: statement
@@ -2819,10 +2819,10 @@ catalog:
           value: '13.3'
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-13.3_smt
           name: statement
@@ -2840,10 +2840,10 @@ catalog:
           value: '13.4'
         - name: source-page
           value: '36'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-13.4_smt
           name: statement
@@ -2870,10 +2870,10 @@ catalog:
           value: '14.1'
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-14.1_smt
           name: statement
@@ -2900,10 +2900,10 @@ catalog:
           value: '14.2'
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-14.2_smt
           name: statement
@@ -2932,10 +2932,10 @@ catalog:
           value: '15.1'
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-15.1_smt
           name: statement
@@ -2955,10 +2955,10 @@ catalog:
           value: '15.2'
         - name: source-page
           value: '37'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-15.2_smt
           name: statement
@@ -2974,10 +2974,10 @@ catalog:
           value: '15.3'
         - name: source-page
           value: '38'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-15.3_smt
           name: statement
@@ -3006,10 +3006,10 @@ catalog:
           value: '16.1'
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.1_smt
           name: statement
@@ -3024,10 +3024,10 @@ catalog:
           value: '16.2'
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.2_smt
           name: statement
@@ -3048,10 +3048,10 @@ catalog:
           value: '16.3'
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.3_smt
           name: statement
@@ -3069,10 +3069,10 @@ catalog:
           value: '16.4'
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.4_smt
           name: statement
@@ -3097,10 +3097,10 @@ catalog:
           value: '16.5'
         - name: source-page
           value: '39'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.5_smt
           name: statement
@@ -3116,10 +3116,10 @@ catalog:
           value: '16.6'
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.6_smt
           name: statement
@@ -3133,10 +3133,10 @@ catalog:
           value: '16.7'
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-16.7_smt
           name: statement
@@ -3160,10 +3160,10 @@ catalog:
           value: '17.1'
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-17.1_smt
           name: statement
@@ -3200,10 +3200,10 @@ catalog:
           value: '17.2'
         - name: source-page
           value: '40'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-17.2_smt
           name: statement
@@ -3230,10 +3230,10 @@ catalog:
           value: '17.3'
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: G
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-17.3_smt
           name: statement
@@ -3250,10 +3250,10 @@ catalog:
           value: '17.4'
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-17.4_smt
           name: statement
@@ -3272,10 +3272,10 @@ catalog:
           value: '17.5'
         - name: source-page
           value: '41'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-17.5_smt
           name: statement
@@ -3302,10 +3302,10 @@ catalog:
           value: '18.1'
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-18.1_smt
           name: statement
@@ -3330,10 +3330,10 @@ catalog:
           value: '18.2'
         - name: source-page
           value: '42'
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         - name: marker
           value: S
-          ns: https://baden.id/ns/rmit
+          ns: https://bnm.gov.my/ns/rmit
         parts:
         - id: rmit-18.2_smt
           name: statement
@@ -3374,13 +3374,13 @@ catalog:
       props:
       - name: label
         value: appendix-1
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '43'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=43
         media-type: application/pdf
@@ -3403,13 +3403,13 @@ catalog:
       props:
       - name: label
         value: appendix-2
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '44'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=44
         media-type: application/pdf
@@ -3431,13 +3431,13 @@ catalog:
       props:
       - name: label
         value: appendix-3
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '47'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=47
         media-type: application/pdf
@@ -3460,13 +3460,13 @@ catalog:
       props:
       - name: label
         value: appendix-4
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '50'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=50
         media-type: application/pdf
@@ -3489,13 +3489,13 @@ catalog:
       props:
       - name: label
         value: appendix-5
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '51'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=51
         media-type: application/pdf
@@ -3517,13 +3517,13 @@ catalog:
       props:
       - name: label
         value: appendix-6
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '56'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=56
         media-type: application/pdf
@@ -3546,13 +3546,13 @@ catalog:
       props:
       - name: label
         value: appendix-7
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '57'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=57
         media-type: application/pdf
@@ -3575,13 +3575,13 @@ catalog:
       props:
       - name: label
         value: appendix-8
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '62'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=62
         media-type: application/pdf
@@ -3603,13 +3603,13 @@ catalog:
       props:
       - name: label
         value: appendix-9
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '63'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=63
         media-type: application/pdf
@@ -3631,13 +3631,13 @@ catalog:
       props:
       - name: label
         value: appendix-10
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '64'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=64
         media-type: application/pdf
@@ -3660,13 +3660,13 @@ catalog:
       props:
       - name: label
         value: appendix-11
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '79'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=79
         media-type: application/pdf
@@ -3688,13 +3688,13 @@ catalog:
       props:
       - name: label
         value: appendix-12
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: type
         value: appendix
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       - name: source-page
         value: '82'
-        ns: https://baden.id/ns/rmit
+        ns: https://bnm.gov.my/ns/rmit
       rlinks:
       - href: https://www.bnm.gov.my/documents/20124/938039/pd-rmit-sep26.pdf#page=82
         media-type: application/pdf

@@ -53,7 +53,7 @@ Catalog, profile, and resolved catalog all validate clean against:
 - Control IDs mirror RMIT numbering: `rmit-8.1`, `rmit-10.52`, etc.
 - Group IDs: `rmit-g-part-a`, `rmit-g-8`, `rmit-g-10`, etc.
 - Each control carries a `marker` prop (`S`, `G`, or absent for Part A) in
-  the `https://baden.id/ns/rmit` namespace, plus a `source-page` prop
+  the `https://bnm.gov.my/ns/rmit` namespace, plus a `source-page` prop
   pointing back to the upstream PDF.
 
 ## Source

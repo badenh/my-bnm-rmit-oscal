@@ -3,23 +3,23 @@
     "uuid": "bbb2d788-ada9-507c-b739-bac5584b4814",
     "metadata": {
       "title": "Risk Management in Technology (RMiT) — Full Profile",
-      "last-modified": "2026-11-20T03:55:28Z",
+      "last-modified": "2026-11-20T03:59:55Z",
       "version": "2026-09",
       "oscal-version": "1.1.2",
       "props": [
         {
           "name": "short-name",
           "value": "BNM RMIT",
-          "ns": "https://baden.id/ns/rmit"
+          "ns": "https://bnm.gov.my/ns/rmit"
         },
         {
           "name": "publisher",
           "value": "Bank Negara Malaysia",
-          "ns": "https://baden.id/ns/rmit"
+          "ns": "https://bnm.gov.my/ns/rmit"
         },
         {
           "name": "copyright",
-          "ns": "https://baden.id/ns/rmit",
+          "ns": "https://bnm.gov.my/ns/rmit",
           "value": "© Bank Negara Malaysia. OSCAL conversion © Baden Hughes, licensed Apache-2.0."
         }
       ],
